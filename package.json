@@ -2,7 +2,7 @@
   "name": "monster-roldeex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ibra-22Kh.github.io/Monster",
+  "homepage": "https://Ibra-22Kh.github.io/monster-roles",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
