@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monster-roles/static/css/main.a77ed1ad.css",
+    "main.js": "/monster-roles/static/js/main.afbf0ed3.js",
+    "static/js/787.8c788888.chunk.js": "/monster-roles/static/js/787.8c788888.chunk.js",
+    "index.html": "/monster-roles/index.html",
+    "main.a77ed1ad.css.map": "/monster-roles/static/css/main.a77ed1ad.css.map",
+    "main.afbf0ed3.js.map": "/monster-roles/static/js/main.afbf0ed3.js.map",
+    "787.8c788888.chunk.js.map": "/monster-roles/static/js/787.8c788888.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a77ed1ad.css",
+    "static/js/main.afbf0ed3.js"
+  ]
+}
